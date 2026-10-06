@@ -35,7 +35,7 @@ Robot
 
 ## Core Evaluation
 
-We will experimentally evaluate:
+We will experimentally evaluate:~
 
 - Packet Delivery Ratio
 - Packet Loss
